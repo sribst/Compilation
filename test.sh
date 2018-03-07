@@ -1,18 +1,18 @@
 #!/bin/bash
 declare -a arr=(
     "test"
-    # "defdef"
-    # "pow"
-    # "list"
-    # "ack"
-    # "ack_cont"
-    # "fibo"
+    "defdef"
+    "pow"
+    "list"
+    "ack"
+    "ack_cont"
+    "fibo"
     # "fibo_cont"
     # "fiboopt"
-    # "fact"
-    # "factopt"
-    # "fact_cont"
-    # "treelist"
+    "fact"
+    "factopt"
+    "fact_cont"
+    "treelist"
 )
 
 echo "JAVIX with -noverify"
